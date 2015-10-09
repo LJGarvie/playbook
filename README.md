@@ -19,7 +19,7 @@ The web has revolutionised the way society works. Most of society has reaped the
 
 Since dxw was founded in 2008, a lot of things have become better. The Government Digital Service has changed the conversation about how and why services get built, and many are much better as a result. But the challenge facing the public sector is not one that any organisation could tackle alone. 
 
-In addition to talented in-house teams who understand how to deliver great services, the public sector needs talented suppliers who understand how to work with it. And who are driven by a desire to make public services better. And who understand how to combine a modern technogical approach with agile principles of development and user-centricity. That's what dxw is here to do.
+In addition to talented in-house teams who understand how to deliver great services, the public sector needs talented suppliers who understand how to work with it. And who are driven by a desire to make public services better. And who understand how to combine a modern technological approach with agile principles of development and user-centricity. That's what dxw is here to do.
 
 We build digital public services that are flexible, efficient, effective and useful. We want people's experience of those services to be straightforward, positive and seamless. We believe that in building those services using agile principles, we can help government to embed those same principles in other parts of their organisations.
 
@@ -39,13 +39,13 @@ We are honest, trustworthy and straightforward. We give plain-spoken, frank, acc
 We are positive, cheerful and supportive. Even in crisis, we stay optimistic. We [assume good faith](https://en.wikipedia.org/wiki/Wikipedia:Assume_good_faith) and offer constructive challenge.
 
 #### Creative
-We are creative, diverse and curious. We help each other to learn and improve and we're sensitive to each others' needs. We love technology and finding new ways to solve problems.
+We are creative, diverse and curious. We help each other to learn and improve and we're sensitive to each other's needs. We love technology and finding new ways to solve problems.
 
 #### Determined
 We are determined, discerning and motivated. We believe in high standards, we enjoy doing things properly, and we're loath to settle for less.
 
 #### Reliable
-We are reliable, consistent and committed. We make every effort to live up to each others' expectations, and to exceed the expectations of our clients.  
+We are reliable, consistent and committed. We make every effort to live up to each other's expectations, and to exceed the expectations of our clients.  
 
 ### Some guiding principles
 
@@ -73,7 +73,7 @@ Our working hours are 10:00-18:00, Monday to Friday. Some people work different 
 
 We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:05. If you miss the stand-up, then you are [late](#Lateness). 
 
-Most developers have maintenance responibilities, and so work for 1.5 hours in the morning on tickets and the rest of the day on a client project.
+Most developers have maintenance responsibilities, and so work for 1.5 hours in the morning on tickets and the rest of the day on a client project.
 
 We do our very best to work to a [sustainable pace](#sustainable_pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during anti-social hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
 
@@ -82,7 +82,7 @@ We do our very best to work to a [sustainable pace](#sustainable_pace). But some
 
 This playbook is a collaborative effort. If you spot something that's wrong, feel free to hop in and correct it. But remember that this playbook is the result of our conversations about how we should do things, not a substitute for one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
 
-If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect speelings and other minor errors.
+If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect spellings and other minor errors.
 
 ## Build
 
@@ -205,7 +205,7 @@ It is important that solved tickets contain some record of what we did. This is 
 
 Some tickets are not raised by clients, but are raised by another agent or by an automated process. In this situation, it's still important that tickets record what actions we took, so we don't close them without a good update. We always leave a couple of sentences to say what we did, even if it was minor.
 
-Before solving a ticket, we use the *How much work was this?* field to give an approximatation of the time we spent on the issue, or we select *chargeable* if it's a ticket we'll invoice for.
+Before solving a ticket, we use the *How much work was this?* field to give an approximation of the time we spent on the issue, or we select *chargeable* if it's a ticket we'll invoice for.
 
 
 #### Deciding what to work on
@@ -233,7 +233,7 @@ Unless there's a good reason not to, we deal with tickets in the order they are 
 Zendesk knows each ticket's age, the time it's been since it was updated, its priority and the time left until we breach our SLA. Generally speaking, it makes good decisions about priority.
 
 
-### Initiatial investigation
+### Initial investigation
 
 When we pick up new tickets or are assigned one where no investigation has yet happened, we complete an initial investigation. If you don't have the right skills for the issue or are not familiar enough with the project to know what to do, reassign the ticket to a more appropriate agent, or consult a delivery manager.
 
@@ -279,7 +279,7 @@ Only people who have been registered in Zendesk are permitted to submit tickets.
 
 Tickets received from unregistered users are put into the Suspended Tickets view with a reason of "permission denied". We receive a digest email on the systems email to let us know what is in the suspended queue. 
 
-If we see a suspended ticket that looks legitimate, we create a ticket for the project owner and ask if the user should be added. If they can be added, we create them in Clients and Projects as a contact on the appropriate project, and then recover the ticket from the suspended list. If the new user should't be added, we delete the ticket and ask the project owner to resubmit it if required.
+If we see a suspended ticket that looks legitimate, we create a ticket for the project owner and ask if the user should be added. If they can be added, we create them in Clients and Projects as a contact on the appropriate project, and then recover the ticket from the suspended list. If the new user shouldn't be added, we delete the ticket and ask the project owner to resubmit it if required.
 
 If we receive a suspended ticket from someone who is not a contact but is adding useful information, add the information to the relevant ticket as an internal note and then delete the suspended ticket. We make sure the internal note mentions who the information came from.
 
@@ -349,7 +349,7 @@ It is good to try and think of alternative approaches that we could do under our
 ## Sales
 ### Typical projects
 
-We make most of our money by researching, designing and building web sites and apps. These are always for public sector organisations. Broadly speaking, they are either informational services ([corporate websites](https://www.judiciary.gov.uk), [campaigns](https://www.greatbusiness.gov.uk), intranets) or transactional services ([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs)). Somtimes they're a bit of both. 
+We make most of our money by researching, designing and building web sites and apps. These are always for public sector organisations. Broadly speaking, they are either informational services ([corporate websites](https://www.judiciary.gov.uk), [campaigns](https://www.greatbusiness.gov.uk), intranets) or transactional services ([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs)). Sometimes they're a bit of both. 
 
 In so doing, we try to make sure that the organisations we're working with will be able to operate their new services well and sustainably. This sometimes involves work that an agency might not normally do, like advising an organisation's leaders on how their teams could be restructured, or on what their digital strategy could be.
 
@@ -360,7 +360,7 @@ We also make some of our money by hosting some of the services that we build, an
 
 ### Leads
 
-Most of our leads arrive via email as a result of recommendations and word-of-mouth. Some arrive via via more formal channels like framework agreements. Leads might arrive to anyones email account. We try to make sure things arrive in the sales email account wherever we can.
+Most of our leads arrive via email as a result of recommendations and word-of-mouth. Some arrive via via more formal channels like framework agreements. Leads might arrive to anyone's email account. We try to make sure things arrive in the sales email account wherever we can.
 
 When any lead arrives, we record it in [Pipeline Deals](https://www.pipelinedeals.com/home) as a *Deal*. However, we also use PipelineDeals to record information about projects we have sold. So, we don't refer to anything in PipelineDeals as a "Deal". We either call it a *lead*, or after it's sold, an *order*.
 
